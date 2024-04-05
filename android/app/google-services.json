@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "251701460062",
+    "project_id": "chat-app-61522",
+    "storage_bucket": "chat-app-61522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251701460062:android:a040e79667db58709ac8cf",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251701460062-3l6opsvcjldt29lk1gjh399k4u4ibtjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnHhmcFh9jhs8pS3Om00MB3zGsXTfuqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251701460062-3l6opsvcjldt29lk1gjh399k4u4ibtjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251701460062:android:26f5d1c9cd1be39f9ac8cf",
+        "android_client_info": {
+          "package_name": "com.todo.gk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251701460062-3l6opsvcjldt29lk1gjh399k4u4ibtjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMnHhmcFh9jhs8pS3Om00MB3zGsXTfuqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251701460062-3l6opsvcjldt29lk1gjh399k4u4ibtjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
